@@ -1,8 +1,16 @@
+## 硬件准备
+
+ * 硬件准备 <http://www.icbrick.com/index.php/OS-SNR-0707_%E4%B8%89%E8%89%B2LED%E6%A8%A1%E5%9D%97> 
+
 <!--remove-start-->
+
+
+
 
 # LED - RGB
 
 <!--remove-end-->
+
 
 
 Demonstrates use of an RGB LED (common cathode) by setting its color to red (`#ff0000`) and making it blink. Requires RGB LED on pins that support PWM (usually denoted by ~).
