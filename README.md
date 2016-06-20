@@ -3,6 +3,8 @@
 # Johnny-Five
 ### The JavaScript Robotics Programming Framework
 
+[灯的硬件](http://www.icbrick.com/index.php/OS-SNR-0707_%E4%B8%89%E8%89%B2LED%E6%A8%A1%E5%9D%97)
+
 <!-- 
 
     Hello!
